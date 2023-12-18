@@ -1,3 +1,9 @@
-# Solid Snake 
+# PERSONA 5
 
- Solid Snake, también conocido como Snake fue un soldado estadounidense que formó parte de la unidad de fuerzas especiales **FOXHOUND**, donde fue entrenado por veteranos como **Big Boss**, de quien heredó el nombre de Snake, y **McDonell "Master" Miller**. Solid Snake logró completar con éxito las operaciones **Intrude N313** e **Intrude F014**, en las que detuvo los conflictos iniciados por un renegado Big Boss. Lo derrotó en combate y destruyó varios de sus **Metal Gears**; tanques andantes bípedos con armamento nuclear. Después de estas misiones, optó por vivir una vida pacífica en Alaska.Su antiguo comandante, **Roy Campbell**, lo sacó de su retiro para obligarlo a participar en una última misión: infiltrarse en las instalaciones militares de la isla de **Shadow Moses**. La misión era rescatar operativos estadounidenses clave y detener la rebelión de **Liquid Snake**, su hermano gemelo, y otros miembros de FOXHOUND que exigían los restos de Big Boss o usarían armas nucleares a través del **Metal Gear REX**.Tras el **Incidente de Shadow Moses**, Snake y su amigo **Hal Emmerich** fundaron **Philanthropy**, una organización no gubernamental dedicada a la destrucción de Metal Gears alrededor del mundo. Más tarde, Philanthropy fue reformada como la tripulación del **Nomad**, dedicada a combatir contra los planes de **Revolver Ocelot** y del grupo supergubernamental **Los Patriots**.
+Persona 5 es un juego de rol desarrollado por la empresa **ATLUS** en el que se narra la vida de un estudiante donde le encarcelan y cuenta su transfondo mientras se intenta salvar
+
+## Personajes 
+
+### El personaje principal (Nombre elejible por el usuario)
+
+<herf src="https://static.wikia.nocookie.net/megamitensei/images/6/63/Persona_5_Hero.png/revision/latest?cb=20190526013849&path-prefix=es">
