@@ -44,4 +44,4 @@ Este juegeo se basa en un RPG, es decir, acciones por turnos. Cada uno de los pe
 
 Tambien se dispone de varias acciones donde el equipo del protagonista pueden usar para dar ventaja a sus peleas y que así sean más fáciles
 
-<img src="https://static.wikia.nocookie.net/megamitensei/images/a/a0/Ambush_Tumbling.gif/revision/latest?cb=20230423140035" height="200" lentgh="200">
+<img src="https://static.wikia.nocookie.net/megamitensei/images/a/a0/Ambush_Tumbling.gif/revision/latest?cb=20230423140035">
