@@ -35,3 +35,11 @@ Persona 5 es un juego de rol desarrollado por la empresa **ATLUS** en el que se 
 ### Goro Akechi
 
 <img src="https://static.wikia.nocookie.net/megamitensei/images/1/15/Gor%C5%8D_Akechi.png/revision/latest?cb=20230603111738" height="350">
+
+## Jugabilidad 
+
+Este juegeo se basa en un RPG, es decir, acciones por turnos. Cada uno de los personajes podrán realizar una acción por turno y luego le darán paso al turno del enemigo, donde este también atacará o usará abilidades
+
+<img src="https://preview.redd.it/persona-5-will-be-my-first-rpg-any-combat-advice-v0-ftmg64w0qhfb1.jpg?auto=webp&s=accd0310436d3a5a79b4ce52825d2bc642ebe868" height= "200" lenght="200">
+
+Tambien se dispone de varias acciones donde el equipo del protagonista pueden usar para dar ventaja a sus peleas y que así sean más fáciles
