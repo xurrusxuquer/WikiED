@@ -6,4 +6,4 @@ Persona 5 es un juego de rol desarrollado por la empresa **ATLUS** en el que se 
 
 ### El personaje principal (Nombre elejible por el usuario)
 
-<img src="https://static.wikia.nocookie.net/megamitensei/images/6/63/Persona_5_Hero.png/revision/latest?cb=20190526013849&path-prefix=es">
+<img src="https://static.wikia.nocookie.net/megamitensei/images/6/63/Persona_5_Hero.png/revision/latest?cb=20190526013849&path-prefix=es" height = "50">
