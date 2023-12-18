@@ -62,6 +62,6 @@ Tambien se dispone de varias acciones donde el equipo del protagonista pueden us
 
 ## Enlace a la Wikipedia
 
-[Click aquí para ir a la Wikipedia de Persona 5](https://github.com/xurrusxuquer/WikiED.wiki.git "Wiki Persona 5")
+[Click aquí para ir a la Wikipedia de Persona 5](https://github.com/xurrusxuquer/WikiED/wiki/Wikipedia-persona-5 "Wiki Persona 5")
 
 
