@@ -60,8 +60,8 @@ Este juegeo se basa en un RPG, es decir, acciones por turnos. Cada uno de los pe
 
 Tambien se dispone de varias acciones donde el equipo del protagonista pueden usar para dar ventaja a sus peleas y que así sean más fáciles, ganar más dinero, experiencia, etc...
 
-## <A herf="https://github.com/xurrusxuquer/WikiED/wiki/Persona-5-Wikipedia">Enlace a la Wikipedia</A>
+## Enlace a la Wikipedia
 
-
+[Click aquí para ir a la Wikipedia de Persona 5](https://github.com/xurrusxuquer/WikiED/wiki/Persona-5-Wikipedia "Wiki Persona 5)
 
 
