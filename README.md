@@ -43,3 +43,5 @@ Este juegeo se basa en un RPG, es decir, acciones por turnos. Cada uno de los pe
 <img src="https://preview.redd.it/persona-5-will-be-my-first-rpg-any-combat-advice-v0-ftmg64w0qhfb1.jpg?auto=webp&s=accd0310436d3a5a79b4ce52825d2bc642ebe868" height= "200" lenght="200">
 
 Tambien se dispone de varias acciones donde el equipo del protagonista pueden usar para dar ventaja a sus peleas y que así sean más fáciles
+
+<img src="https://static.wikia.nocookie.net/megamitensei/images/a/a0/Ambush_Tumbling.gif/revision/latest?cb=20230423140035" height="200" lentgh="200">
